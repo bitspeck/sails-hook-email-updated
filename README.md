@@ -20,9 +20,11 @@ Email hook for [Sails JS](http://sailsjs.org), using [Nodemailer](https://github
 
 *Note: This requires Sails v0.10.6+.*
 
-### Installation
+### unInstallation
 
 `npm uninstall sails-hook-email`
+
+### Installation
 `npm install sails-hook-email-updated`
 
 ### Usage
