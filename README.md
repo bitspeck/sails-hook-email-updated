@@ -22,6 +22,7 @@ Email hook for [Sails JS](http://sailsjs.org), using [Nodemailer](https://github
 
 ### Installation
 
+`npm uninstall sails-hook-email`
 `npm install sails-hook-email-updated`
 
 ### Usage
