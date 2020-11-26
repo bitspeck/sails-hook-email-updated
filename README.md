@@ -1,5 +1,6 @@
-# sails-hook-email
+# sails-hook-email-updated
 
+> ### This is the updated verison of sails-hook-email developed by balderdashy. I have created this repo, because i can't push the updated on the balderdashy's repo.
 > ### There are no updates planned for this hook for Sails v1.0 and beyond.
 >
 > Feel free to continue to use this hook in existing projects, as-is, as long as it's doing the job for you.
@@ -12,6 +13,7 @@
 
 
 
+[![Main Project]](https://github.com/balderdashy/sails-hook-email)
 [![Dependency Status](https://david-dm.org/balderdashy/sails-hook-email.svg)](https://david-dm.org/balderdashy/sails-hook-email)
 
 Email hook for [Sails JS](http://sailsjs.org), using [Nodemailer](https://github.com/andris9/Nodemailer/blob/v1.3.4/README.md)
@@ -20,7 +22,7 @@ Email hook for [Sails JS](http://sailsjs.org), using [Nodemailer](https://github
 
 ### Installation
 
-`npm install sails-hook-email`
+`npm install sails-hook-email-updated`
 
 ### Usage
 
@@ -82,7 +84,7 @@ Given the following **html.ejs** file contained in the folder **views/emailTempl
 <p>Love,<br/><%=senderName%></p>
 ```
 
-executing the following command (after [configuring for your email service](https://github.com/balderdashy/sails-hook-email/#configuration) and turning off test mode) :
+executing the following command (after [configuring for your email service](https://github.com/bitspeck/sails-hook-email-updated/#configuration) and turning off test mode) :
 
 ```
 sails.hooks.email.send(

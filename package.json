@@ -1,13 +1,13 @@
 {
-  "name": "sails-hook-email",
-  "version": "0.12.1",
-  "description": "Email hook for Sails",
+  "name": "sails-hook-email-updated",
+  "version": "1.0",
+  "description": "Email hook for Sails 0.12",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": {
-    "name": "Balderdash"
+    "name": "ratonshahadat"
   },
   "contributors": [
     {
@@ -21,6 +21,9 @@
     },
     {
       "name": "Dan Prietti"
+    },
+    {
+      "name": "Md. Shahadat Hossain"
     }
   ],
   "license": "MIT",
@@ -37,6 +40,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/balderdashy/sails-hook-email.git"
+    "url": "git://github.com/bitspeck/sails-hook-email-updated.git"
   }
 }
