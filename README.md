@@ -1,6 +1,6 @@
 # sails-hook-email-updated
 
-> ### This is the updated verison of sails-hook-email developed by balderdashy. I have created this repo, because i can't push the updated on the balderdashy's repo.
+> ### This is the updated verison of sails-hook-email developed by balderdashy. I have created this repo, because i could't able to push the changes on the balderdashy's repo.
 > ### There are no updates planned for this hook for Sails v1.0 and beyond.
 >
 > Feel free to continue to use this hook in existing projects, as-is, as long as it's doing the job for you.
