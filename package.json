@@ -1,6 +1,6 @@
 {
   "name": "sails-hook-email-updated",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "Email hook for Sails 0.12",
   "main": "index.js",
   "directories": {
